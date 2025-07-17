@@ -14,6 +14,18 @@
 
 - e-mail📬 wowns2646@naver.com
 
+
+### 미래의 skills
+
+- **Frontend** HTML/CSS, JavaScript, React, Tailwind CSS
+- **Backend** Python(Django/Flask), Java(Spring Boot), Node.js
+- **Database** MySQL, PostgreSQL, MongoDB
+- **DevOps** Docker, GitHub Actions, AWS
+- **ETC** Git, Notion, Figma, Postman, Linux CLI
+
+## 화이팅 👊👊👊
+
+
 <!--
 **dlwowns2646/dlwowns2646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
