@@ -1,4 +1,5 @@
-## Hi there 👋
+## 안녕하세요 👋
+### ✨ 이재준 입니다 ✨
 
 <!--
 **dlwowns2646/dlwowns2646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
